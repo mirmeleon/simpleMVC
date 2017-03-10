@@ -1,0 +1,9 @@
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC\bin\Debug\Resources\Pages\404.html
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC\bin\Debug\Resources\Pages\500.html
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC\bin\Debug\SimpleMVC.dll
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC\bin\Debug\SimpleMVC.pdb
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC\obj\Debug\SimpleMVC.dll
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC\obj\Debug\SimpleMVC.pdb

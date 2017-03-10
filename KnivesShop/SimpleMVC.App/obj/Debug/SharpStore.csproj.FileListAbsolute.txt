@@ -1,0 +1,16 @@
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\SharpStore.exe.config
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\Resources\Pages\404.html
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\Resources\Pages\500.html
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\SharpStore.exe
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\SharpStore.pdb
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\EntityFramework.dll
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\SimpleHttpServer.dll
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\SimpleMVC.dll
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\SimpleHttpServer.pdb
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\SimpleMVC.pdb
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\EntityFramework.xml
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\obj\Debug\SharpStore.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\obj\Debug\SharpStore.exe
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleMVC.App\obj\Debug\SharpStore.pdb

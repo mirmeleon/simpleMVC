@@ -1,0 +1,8 @@
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\Dell\Downloads\Softuni\Web-Basics\Labs\Solutions Bojo\20feb-Knives-reshenie\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
